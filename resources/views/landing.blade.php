@@ -90,11 +90,11 @@
 						Indonesia. Im a highly motivated, hard worker, eager to learn new things and disciplined. Im also a
 						good team worker and great leader.</p>
 		            <ul class="about-info mt-4 px-md-0 px-2">
-						<li class="d-flex"><span>Name:</span> <span>Arie Arifin</span></li>
-		            	<li class="d-flex"><span>Age:</span> <span>22</span></li>
-		            	<li class="d-flex"><span>Date of birth:</span> <span>June 24th, 1998</span></li>
-		            	<li class="d-flex"><span>Zodiac:</span> <span>Cancer</span></li>
-		            	<li class="d-flex"><span>Football Team:</span> <span>Man United</span></li>
+						<li class="d-flex"><span>Name</span> <span>: Arie Arifin</span></li>
+		            	<li class="d-flex"><span>Age</span> <span>: 22</span></li>
+		            	<li class="d-flex"><span>Date of birth</span> <span>: June 24th, 1998</span></li>
+		            	<li class="d-flex"><span>Zodiac</span> <span>: Cancer</span></li>
+		            	<li class="d-flex"><span>Football Team</span> <span>: Man United</span></li>
 		            </ul>
 		          </div>
 		        </div>
